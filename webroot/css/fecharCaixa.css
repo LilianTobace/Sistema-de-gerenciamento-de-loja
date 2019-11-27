@@ -1,0 +1,31 @@
+.body_fecharCaixa{
+	width: 50%; padding: 8% 0 0; margin: auto; text-align: center; 
+}
+
+.h2-caixa{
+	margin-top: -5%;
+}
+
+.div-fecharCaixa{
+	z-index: 1; 
+	background: #FFFFFF; 
+	padding: 10%;
+	box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+}
+
+.div2-fecharCaixa{
+	margin-top: -10%;
+}
+
+.p-fecharCaixa{
+	font-weight: bold; 
+	margin-top: 8%; 
+	font-size: 150%;
+}
+
+.botao{
+	color: #fff;
+    background-color: #5cb85c;
+    border-color: #4cae4c;
+	margin-left: -20%;
+}

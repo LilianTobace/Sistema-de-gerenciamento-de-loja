@@ -1,0 +1,111 @@
+.bodyDiv{
+    text-align: center;
+}
+
+.body{
+    margin-left: 16%;
+}
+
+.fieldset{
+    margin-left: 20%; 
+    margin-right: 3%;
+}
+
+.nome{
+    width: 200%;
+}
+
+.divNome{
+    float: left;
+}
+
+.divCnpj{
+    float: left;
+    margin-left: 24%;
+}
+.cnpj{
+    width: 110%;
+}
+
+.emailClass{
+    width: 140%;
+}
+
+.divE-mail{
+    float: left;
+    margin-left: 7.2%;
+}
+
+.telefone1{
+    width: 200%;
+}
+
+.divTelefone1{
+    float: left;
+}
+.telefone2{
+    width: 110%;
+}
+
+.divTelefone2{
+    float: left;
+    margin-left: 24%;
+}
+
+.endereco{
+    width: 140%;
+}
+
+.divEndereco{
+    float: left;
+    margin-left: 7%;
+}
+
+.numero{
+    width: 200%;
+}
+
+.divNumero{
+    float: left;
+}
+
+.bairro{
+    width: 110%;
+}
+
+.divBairro{
+    float: left;
+    margin-left: 24.2%;
+}
+
+.estado{
+    width: 160%;
+}
+
+.divEstado{
+    float: left;
+    margin-left: 7%;
+}
+
+.divCidade{
+    float: left;
+}
+
+.cidade{
+    width: 100%;
+}
+.divCep{
+    float: left;
+    margin-left: 4%;
+}
+.cep{
+    width: 80%;
+}
+
+.divComentario{
+    float: left;
+    margin-left: 1%;
+}
+.comentario{
+    width: 280%;
+}

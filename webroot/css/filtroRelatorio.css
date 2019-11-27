@@ -1,0 +1,27 @@
+
+.filtroLabel1{
+	margin-left: 20%; 
+	float: left;
+}
+
+.input1{
+	width: 13%; 
+	margin-left: 1%; 
+	float: left;
+}
+
+.filtroLabel2{
+	margin-left: 2%; 
+	margin-top: 0.2%; 
+	float: left;
+}
+
+.input2{
+	width: 13%; 
+	margin-left: 1%; 
+	float: left;
+}
+
+.button1{
+	margin-left: -30%;
+}

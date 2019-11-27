@@ -1,0 +1,57 @@
+
+.payment-methods {
+  list-style: none;
+}
+
+.payment-methods input:checked + label {
+  outline: 4px solid #21b4d0;
+
+}
+
+.pg {
+	display: none;
+}
+
+.labelpag{
+	display: block; 
+	border: 4px solid white; 
+	width: 158px; 
+	height: 104px;
+}
+
+.labelpag2{
+	display: block; 
+	border: 4px solid white;
+	width: 138px; 
+	height: 101px;
+}
+.imgpag{
+	width: 162px;
+	height: 110px; 
+	margin-top: -5%; 
+	margin-left: -5%;
+	display: block;
+}
+
+.imgpag2{
+	width: 145px; 
+	height: 101px;
+	margin-top: -3%; 
+	margin-left: -7%; 
+	display: block;
+}
+
+.p_pagamento{
+	font-size: 200%;
+}
+
+.totalpago{
+	margin-left: -17%;
+}
+
+.trocopagamento{
+	margin-right: 18%;
+}
+.input_pagamento{
+	width: 20%;
+}

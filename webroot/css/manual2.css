@@ -1,0 +1,15 @@
+/*Manual do usuário*/
+.manual{
+    width: 5%; 
+    float: left; 
+    margin-left: -130%;
+    margin-top: -0.8%;
+}
+
+img.manual:hover {
+  filter: invert(100%);
+}
+
+.manulPagPrincipal{
+    margin-left: -157%;
+}

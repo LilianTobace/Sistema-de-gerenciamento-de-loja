@@ -1,0 +1,186 @@
+/*index*/
+.bodyindex{
+    text-align: center; 
+    margin-left: 16%;
+}
+
+.thindex{
+    text-align: center;
+}
+
+/*ADD*/
+.liPromocao{
+    text-align: center;
+}
+
+.bodypromo{
+    margin-left: 12%;
+}
+
+.fieldsetpromo{
+    margin-left: 20%;
+}
+
+.select{
+    margin-left: -10%;
+    width: 50%;
+    float: left;
+}
+
+.valorpromo{
+    margin-left: -22%;
+    float: left;
+}
+.valorpromo1{
+    width: 120%;
+}
+
+.datepromo{
+    float: left;
+}
+
+.datepromo1{
+    float: left;
+    margin-left: -23%;
+    margin-top: 6.9%;
+}
+
+.dateinicio{
+    width: 100%;
+    margin-left: 40%;
+}
+.dateinicio1{
+    margin-left: 40%;
+    white-space:  nowrap;
+}
+
+.datefinal{
+    width: 100%;
+    margin-left: 190%;
+}
+.datefinal1{
+    margin-left: 190%;
+    white-space: nowrap;
+    margin-top: -34%;
+}
+
+.buttompromo{
+    margin-left: 43%;
+}
+switch {
+  position: absolute;
+  margin-left: -9999px;
+  visibility: hidden;
+}
+
+.switch + label {
+  display: block;
+  position: relative;
+  cursor: pointer;
+  outline: none;
+  user-select: none;
+}
+.switch--shadow + label {
+  padding: 2px;
+  width: 50px;
+  height: 20px;
+  background-color: #dddddd;
+  border-radius: 60px;
+}
+.switch--shadow + label:before,
+.switch--shadow + label:after {
+  display: block;
+  position: absolute;
+  top: 1px;
+  left: 1px;
+  bottom: 1px;
+  content: "";
+}
+.switch--shadow + label:before {
+  right: 1px;
+  background-color: #f1f1f1;
+  border-radius: 60px;
+  transition: all 0.4s;
+}
+.switch--shadow + label:after {
+  width: 35%;
+  height: 80%;
+  background-color: #fff;
+  border-radius: 100%;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+  transition: all 0.4s;
+}
+.switch--shadow:checked + label:before {
+  background-color: #2196F3;
+}
+.switch--shadow:checked + label:after {
+  transform: translateX(30px);
+}
+
+.statusinput{
+    visibility: hidden;
+}
+
+.statuslabel{
+    visibility: visible;
+}
+
+.divstatus{
+    margin-left: 33%;
+}
+
+.pinativo{
+    margin-left: -8%;
+    margin-top: -3%;
+    font-size: 85%;
+}
+
+.pativo{
+    margin-left: 10%;
+    margin-top: -3.8%;
+    font-size: 85%;
+}
+
+/*edit*/
+.liedit{
+    text-align: center;
+}
+
+.bodyedit{
+    margin-left: 10%;
+}
+
+
+.fieldsetedit{
+    margin-left: 30%;
+}
+
+.h1edit{
+    margin-left: 48%;
+}
+
+.input1{
+    width: 40%;
+}
+
+.div1{
+    margin-left: -23%;
+    float: left;
+}
+
+.input2{
+    width: 50%;
+    margin-left: 8%;
+}
+.div2{
+    margin-left: -5%;
+    float: left;
+}
+.div3{
+    margin-left: 6%;
+    float: left;
+}
+
+.buttomedit{
+    margin-left: 52%;
+}

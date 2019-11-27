@@ -1,0 +1,27 @@
+.filtro-estoque{
+	margin-left: 130%;
+	white-space: nowrap;
+	font-size: 110%;
+}
+.filtro-estoque2{
+	margin-left: 130%;
+	font-size: 110%;
+	width: 40%;
+}
+
+.printer{
+	width: 3%; 
+	height: auto; 
+	margin-left: 90%; 
+	margin-top: -5%;
+}
+.graphic{
+	width: 3%; 
+	height: auto; 
+	margin-left: 50%; 
+	margin-top: -10%;
+}
+
+.trRodape{
+	text-align: center;
+}

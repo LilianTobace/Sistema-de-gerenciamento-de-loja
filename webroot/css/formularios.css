@@ -1,0 +1,174 @@
+/*formataçao do formulario de cadastro*/
+.li-head{
+    text-align: center;
+}
+
+.body-form{
+    margin-left: 16%;
+}
+
+.body-h1{
+    text-align: center;
+}
+
+.body-div{
+    margin-left: -17%;
+}
+
+.fieldset-body{
+   margin-left: 20%; 
+   margin-right: 3%; 
+}
+
+.form-control-customizada {
+    display: block;
+    height: 34px;
+    padding: 6px 12px;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #555;
+    background-color: #fff;
+    background-image: none;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075);
+    box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075);
+    -webkit-transition: border-color ease-in-out .15s, -webkit-box-shadow ease-in-out .15s;
+    -o-transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;
+    transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;
+}
+
+.label-form{
+    display: block;
+    max-width: 100%;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+
+.form-name{
+    width: 200%;
+}
+
+.form-data{
+    width: 90%;
+    margin-left: 150%;
+}
+
+.form-data2{
+    width: 100%;    
+    margin-left: 150%;
+}
+
+.form-email{
+    width: 190%;
+    margin-left: 150%;
+}
+
+.form-email2{
+    width: 210%;    
+    margin-left: 150%;
+}
+
+.div-form{
+    display: block;
+    float: left;
+}
+
+.div-linha-form{
+    margin-top: 8%;
+    float: left;
+    display: block;
+}
+
+.rg-form{
+    margin-left: -49.9%;
+}
+
+.cpf-form{
+    margin-left: -25%;
+    width: 55%;  
+}
+
+.telefone-form{
+    margin-left: -30%;
+}
+
+.telefone2-form{
+    margin-left: -5%;
+}
+
+.div-linha-form2{
+    margin-top: 3%;
+    float: left;
+    display: block;
+}
+
+.endereco-form{
+    width: 200%;
+}
+
+.numero-form{
+    margin-left: 25%;
+}
+
+.numero-form2{
+    width: 35%;
+}
+
+.bairro-form{
+    margin-left: -2%;
+}
+
+.bairro-form2{
+    width: 200%;
+}
+
+.div-linha-form3{
+    margin-top: 13%;
+    float: left;
+    display: block;
+}
+
+.cidade-form{
+    margin-left: -75.8%;
+}
+
+.cidade-form2{
+    width: 200%
+}
+
+.estado-form{
+    margin-left: -33%;
+}
+
+.cargo-form{
+    margin-left: -10%;
+}
+
+.div-linha-form4{
+    margin-top: 23%;
+    float: left;
+    display: block;
+}
+
+.username-form{
+    margin-left: -79%;
+}
+
+.username-form2{
+    width: 200%;
+}
+
+.senha-form{
+    margin-left: -36%;
+}
+
+.senha-form2{
+    width: 200%;
+}
+
+.botao-form{
+    margin-left: 55%;
+    margin-top: 3%;
+}
+

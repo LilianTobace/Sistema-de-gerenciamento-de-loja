@@ -1,0 +1,146 @@
+.bodyDiv{
+    text-align: center;
+}
+
+.body{
+    margin-left: 16%;
+}
+
+.fieldset{
+    margin-left: 20%; 
+    margin-right: 3%;
+}
+
+.codigo{
+    width: 200%;
+}
+
+.divCodigo{
+    float: left;
+}
+
+.nome{
+    width: 126%;
+}
+
+.divNome{
+    float: left;
+    margin-left: 24%;
+}
+
+.categoria{
+    width: 173%;
+}
+
+.divCategoria{
+    float: left;
+    margin-left: 10%;
+}
+
+.fornecedor{
+    width: 183%;
+}
+
+.divFornecedor{
+    float: left;
+}
+
+.cor{
+    width: 129%;
+}
+
+.divCor{
+    float: left;
+    margin-left: 22%;
+}
+
+.tecido{
+    width: 130%;
+}
+
+.divTecido{
+    float: left;
+    margin-left: 10%;
+}
+
+.tamanho{
+    width: 200%;
+}
+
+.divTamanho{
+    float: left;
+}
+
+.estoque{
+    width: 126%;
+}
+
+.divEstoque{
+    float: left;
+    margin-left: 24.2%;
+}
+
+.custoBruto{
+    width: 130%;
+}
+
+.divCustoBruto{
+    float: left;
+    margin-left: 10%;
+}
+
+.divPorcentagem{
+    float: left;
+    margin-left: 3%;
+}
+.divRadio{
+    float: left;
+}
+
+.porcent{
+    width: 130%;
+}
+
+.divAbsoluto2{
+    float: left;
+    margin-left: 10%;
+}
+
+.absoluto2{
+    width: 130%;
+}
+
+.divAbsoluto{
+    float: left;
+    margin-left: 3%;
+}
+
+.absoluto{
+    width: 130%;
+}
+
+.desconto{
+    width: 130%;
+}
+
+.divDesconto{
+    float: left;
+    margin-left: 11%;
+}
+
+
+.divTecidoDesc{
+    float: left;
+}
+
+.tecidoDesc{
+    width: 200%;
+}
+
+.divProdutoDesc{
+    float: left;
+    margin-left: 24.4%;
+}
+.produtoDesc{
+    width: 290%;
+}

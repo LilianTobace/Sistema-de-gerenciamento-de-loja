@@ -1,0 +1,50 @@
+.bodyIndex{
+    text-align: center; 
+    margin-left: 16%;
+}
+
+.thIndex{
+    text-align: center;
+}
+
+.bodyView{
+    margin-left: 16.7%; 
+}
+
+.h3View{
+    text-align: center; 
+    text-indent: -10%; 
+    font-size: 200%;
+}
+
+.pageView{
+    margin-left: -10%;
+    text-align: center;
+}
+
+.bodyEdit{
+    margin-left: 16%;
+}
+
+.divEdit{
+    margin-left: -17%;
+}
+
+.fieldsetEdit{
+    margin-left: 20%; 
+    margin-right: 3%;
+}
+
+.divEdit2{
+    margin-left: 55%;
+    margin-top: 1%;
+}
+
+.divAdd{
+    margin-left: -17%;
+}
+
+.fieldsetAdd{
+    margin-left: 20%; 
+    margin-right: 3%;
+}

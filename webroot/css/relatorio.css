@@ -1,0 +1,36 @@
+
+.relatorio-venda{
+	text-align: center; 
+	margin-left: 16.5%;
+}
+
+.th-venda{
+	text-align: center;
+}
+
+.filtro-data{
+	margin-left: 150%;
+	white-space: nowrap;
+	font-size: 110%;
+}
+
+.filtro-data2{
+	margin-left: 150%;
+}
+
+.button-filtro{
+	margin-left: 590%;
+	margin-top: 47%;
+}
+
+.resultado_relatorio{
+	background-color: #BEBEBE; 
+}
+.resultado_relatorio1{
+   font-size: 130%;
+   white-space: nowrap;
+}
+
+.trRodape{
+	text-align: center;
+}

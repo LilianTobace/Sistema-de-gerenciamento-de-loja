@@ -1,0 +1,60 @@
+.div-venda{
+	background: #0080FF;
+}
+
+.li-venda{
+	margin-top: 19%; 
+	white-space: nowrap; 
+	margin-left: -20%; 
+	color:black; 
+	font-weight: bold;
+}
+
+.div-venda2{
+	width: 20%;
+	margin-left: 2%;
+}
+
+.button-venda{
+	width: 90%; 
+	font-size: 130%;
+}
+
+.button-modal{
+	width: 90%; 
+	font-size: 130%;
+}
+
+.div-modal{
+	width:90%;
+}
+
+.h2-modal{
+	text-align: center;
+}
+
+.td-modal{
+	padding-left: 150px;
+}
+
+.td-modal2{
+	padding-left: 80px;
+}
+
+.div-venda3{
+	width: 75%;
+	height: 550px;
+}
+
+.td-venda{
+	white-space: pre; 
+	text-align: left;
+}
+
+.input-venda{
+	width: 30%;
+}
+
+.p-venda{
+	font-size: 150%;
+}

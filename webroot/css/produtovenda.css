@@ -1,0 +1,28 @@
+.div-produto{
+	background: #0080FF;
+}
+
+.li-produto{
+	margin-top: 19%; 
+	white-space: nowrap; 
+	margin-left: -20%; 
+	color:black; font-weight: bold;
+}
+.body-produto{
+	background-color: #0080FF; 
+	height: 100%; 
+	width: 100%; 
+	margin-top: 2%;
+}
+
+.vody-div-produto{
+	height: 150%;
+}
+
+.table-produto{
+	table-layout:fixed;
+}
+
+.input-produto{
+	display: none;
+}

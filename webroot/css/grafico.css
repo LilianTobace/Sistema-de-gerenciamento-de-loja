@@ -1,0 +1,23 @@
+.p1{
+	float: left; 
+	margin-left: 38%; 
+	font-size: 120%;
+}
+
+.p2{
+	float: left; 
+	margin-left: 5%; 
+	font-size: 120%;
+}
+
+.p3{
+	float: left; 
+	margin-left: 25%; 
+	font-size: 120%;
+}
+
+.div1{
+	width: 1190px; 
+	height: 610px; 
+	margin-left: 100px;
+}

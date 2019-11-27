@@ -1,0 +1,117 @@
+.nome{
+    width: 200%;
+}
+
+.divNome{
+    float: left;
+}
+
+.rg{
+    width: 140%;
+}
+
+.divRg{
+    float: left;
+    margin-left: 34%;
+}
+
+.cpf{
+    width: 200%;
+}
+
+.divCpf{
+    float: left;
+}
+.telefone1{
+    width: 110%;
+}
+
+.divTelefone1{
+    float: left;
+    margin-left: 24.2%;
+}
+
+.telefone2{
+    width: 140%;
+}
+
+.divTelefone2{
+    float: left;
+    margin-left: 7%;
+}
+
+.endereco{
+    width: 200%;
+}
+
+.divEndereco{
+    float: left;
+}
+
+.numero{
+    width: 110%;
+}
+
+.divNumero{
+    float: left;
+    margin-left: 24.2%;
+}
+
+.bairro{
+    width: 140%;
+}
+
+.divBairro{
+    float: left;
+    margin-left: 7%;
+}
+
+.divEndereco{
+    float: left;
+}
+
+.divEstado{
+    float: left;
+}
+
+.estado{
+    width: 226%;
+}
+.divCidade{
+    float: left;
+    margin-left: 26.2%;
+}
+.cidade{
+    width: 110%;
+}
+
+.e-mail{
+    width: 140%;
+}
+
+.divEmail{
+    float: left;
+    margin-left: 7%;
+}
+.divCargo{
+    float: left;
+}
+
+.cargo{
+    width: 269%;
+}
+.divUsername{
+    float: left;
+    margin-left: 28.5%;
+}
+.username{
+    width: 110%;
+}
+
+.senha{
+    width: 140%;
+}
+.divSenha{
+    float: left;
+    margin-left: 7%;
+}
