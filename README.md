@@ -1,3 +1,7 @@
+O gerenciamento é uma das características mais importantes dos locais comerciais, responsável por controlar o caixa, estoque de produtos, cadastro de clientes e funcionários e geração de relatórios a fim de que haja uma administração eficiente e eficaz. Para a realização deste projeto será utilizada, como exemplo, uma empresa de enxovais da cidade de Ibitinga do estado de São Paulo como modelo. O sistema atenderá às necessidades administrativas de uma firma que comercializa produtos não perecíveis. O foco deste projeto é a utilização de dados do sistema para gerenciamento de vendas, cadastro de funcionários, fornecedores, clientes, despesas, estoques e produtos, além de gerar relatórios e realizar promoções, sendo um sistema simples, prático e intuitivo, para um comércio de pequeno porte, voltado para a venda por atacado.  
+Este sistema foi desenvolvido como projeto final de conclusão de curso, por isso a documentação deste sistema se encontra no link a seguir: https://drive.google.com/file/d/1w-ZF8OpHMJp5GYkmuBO3i-MdcGkyeIip/view?usp=sharing
+ 
+
 # CakePHP Application Skeleton
 
 [![Build Status](https://img.shields.io/travis/cakephp/app/master.svg?style=flat-square)](https://travis-ci.org/cakephp/app)
